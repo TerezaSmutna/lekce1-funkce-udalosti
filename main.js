@@ -25,4 +25,3 @@ function upozorni() {
 function zmenabarvy() {
   document.querySelector(".ctverecek").style.backgroundColor = 'green';
 }
-let jmeno = 'jana';
